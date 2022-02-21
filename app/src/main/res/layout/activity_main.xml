@@ -15,7 +15,7 @@
         android:gravity="center"
         android:orientation="vertical">
 
-        <ImageView
+        <de.hdodenhof.circleimageview.CircleImageView
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/yuna_kim"
@@ -26,6 +26,7 @@
             android:layout_height="wrap_content"
             android:text="김영아"
             android:layout_marginTop="10dp"/>
+
 
 
     </LinearLayout>
